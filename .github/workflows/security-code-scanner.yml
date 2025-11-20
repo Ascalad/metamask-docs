@@ -1,5 +1,5 @@
 name: MetaMask Security Code Scanner
-
+tab
 on:
   push:
     branches:
