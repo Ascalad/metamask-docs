@@ -1,6 +1,6 @@
 ---
 name: trivy-cache-db
-
+tab
 on:
   pull_request:
     branches:
