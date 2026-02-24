@@ -28,7 +28,7 @@
     "**/*.{md,mdx,ts,js,tsx,jsx,json}": "npm run format"
   },
   "dependencies": {
-    "@apidevtools/json-schema-ref-parser": "^11.9.1",
+    "@apidevtools/json-schema-ref-parser": "^15.2.2",
     "@docusaurus/core": "^3.9.2",
     "@docusaurus/plugin-content-docs": "^3.9.2",
     "@docusaurus/plugin-content-pages": "^3.9.2",
